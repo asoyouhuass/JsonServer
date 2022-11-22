@@ -1,64 +1,64 @@
 {
-	"AllNum": {
-    "one": {
-      "url": "",
-      "isToPage": false
-    },
-    "two": {
-      "url": "",
-      "isToPage": false
-    },
-    "three": {
-      "url": "",
-      "isToPage": false
-    },
-    "four": {
-      "url": "",
-      "isToPage": false
-    },
-		"five": {
-			"url": "",
-			"isToPage": false
-		},
-		"six": {
-			"url": "",
-			"isToPage": false
-		},
-		"seven": {
-			"url": "",
-			"isToPage": false
-		},
-		"eight": {
-			"url": "",
-			"isToPage": false
-		},
-		"nine": {
-			"url": "",
-			"isToPage": false
-		},
-		"ten": {
-			"url": "",
-			"isToPage": false
-		},
-		"eleven": {
-			"url": "",
-			"isToPage": false
-		},
-		"twelve": {
-			"url": "",
-			"isToPage": false
-		},
-    "thirteen": {
-			"url": "",
-			"isToPage": false
-		},
-    "fourteen": {
-			"url": "",
-			"isToPage": false
-		},
-    "fifteen": {
-			"url": "",
-			"isToPage": false
-		}
+"AllNum": {
+	"one": {
+		"url": "https://www.49jili.ph/?uagt=nanaapp01&path=root",
+		"isToPage": true
+	},
+	"two": {
+		"url": "https://www.49jili.ph/?uagt=nanaapp01&path=root",
+		"isToPage": true
+	},
+	"three": {
+		"url": "https://www.49jili.ph/?uagt=nanaapp01&path=root",
+		"isToPage": true
+	},
+	"four": {
+		"url": "",
+		"isToPage": false
+	},
+	"five": {
+		"url": "",
+		"isToPage": false
+	},
+	"six": {
+		"url": "",
+		"isToPage": false
+	},
+	"seven": {
+		"url": "",
+		"isToPage": false
+	},
+	"eight": {
+		"url": "",
+		"isToPage": false
+	},
+	"nine": {
+		"url": "",
+		"isToPage": false
+	},
+	"ten": {
+		"url": "",
+		"isToPage": false
+	},
+	"eleven": {
+		"url": "",
+		"isToPage": false
+	},
+	"twelve": {
+		"url": "",
+		"isToPage": false
+	},
+	"thirteen": {
+		"url": "",
+		"isToPage": false
+	},
+	"fourteen": {
+		"url": "",
+		"isToPage": false
+	},
+	"fifteen": {
+		"url": "",
+		"isToPage": false
 	}
+    }
 }
